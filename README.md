@@ -13,8 +13,7 @@ Project Setup steps:
 # Pending Enhancement:
 1) Edge cases for different base currency from config
 2) Error Handling
-3) Puppeteer issue in docker file
-4) i18n 
+3) i18n 
 
 
 

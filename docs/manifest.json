@@ -1,0 +1,17 @@
+{
+  "short_name": "Anatta",
+  "name": "Anatta Design Inc",
+  "icons": [
+    {
+      "src": "images/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ed3632",
+  "background_color": "#ffffff"
+}
