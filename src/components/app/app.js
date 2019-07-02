@@ -10,7 +10,7 @@ import './app.css';
 const App = () => {
     return (
         <ErrorBoundary>
-            <BrowserRouter>
+            <BrowserRouter basename="/Anatta">
                 <Switch>
                     <Route path="/" component={Home} />
                     <Redirect to="/" />

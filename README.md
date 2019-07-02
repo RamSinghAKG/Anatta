@@ -3,18 +3,19 @@ Project Setup steps:
 1) git clone https://github.com/RamSinghAKG/Anatta.git
 2) cd Anatta
 3) npm install
-4) npm start   //open browser http://localhost:3000
+4) npm start   //open browser http://localhost:5000
 
 # Docker commands
-1) docker build -f Dockerfile-prod -t anatta:prod .
-2) docker run -it -p 80:80 anatta:prod
-3) open browser http://localhost/
+1) docker-compose up -d --build
+2) open browser http://localhost:5000/
+
+# Github pages: 
+1) https://ramsinghakg.github.io/Anatta/
 
 # Pending Enhancement:
 1) Edge cases for different base currency from config
 2) Error Handling
-3) Puppeteer issue in docker file
-4) i18n 
+3) i18n 
 
 
 

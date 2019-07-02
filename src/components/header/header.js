@@ -27,7 +27,7 @@ const Header = (props) => {
 };
 
 Header.propTypes = {
-    conversionAmount: PropTypes.string,
+    conversionAmount: PropTypes.number,
     updateConversionAmount: PropTypes.func
 };
 
