@@ -13,8 +13,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
-  "scope": "/",
+  "start_url": "/",
+  "scope": "/Anatta",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#ed3632",
