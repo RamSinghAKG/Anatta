@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Anatta/static/css/main.4c362482.chunk.css",
-    "main.js": "/Anatta/static/js/main.07fd7352.chunk.js",
-    "main.js.map": "/Anatta/static/js/main.07fd7352.chunk.js.map",
-    "runtime~main.js": "/Anatta/static/js/runtime~main.1514ebed.js",
-    "runtime~main.js.map": "/Anatta/static/js/runtime~main.1514ebed.js.map",
-    "static/js/2.2c29eaf4.chunk.js": "/Anatta/static/js/2.2c29eaf4.chunk.js",
-    "static/js/2.2c29eaf4.chunk.js.map": "/Anatta/static/js/2.2c29eaf4.chunk.js.map",
-    "static/css/3.0b67ad20.chunk.css": "/Anatta/static/css/3.0b67ad20.chunk.css",
-    "static/js/3.8350ea0f.chunk.js": "/Anatta/static/js/3.8350ea0f.chunk.js",
-    "static/js/3.8350ea0f.chunk.js.map": "/Anatta/static/js/3.8350ea0f.chunk.js.map",
-    "index.html": "/Anatta/index.html",
-    "precache-manifest.36ad185b61518b2bd5f096e61ac486af.js": "/Anatta/precache-manifest.36ad185b61518b2bd5f096e61ac486af.js",
-    "service-worker.js": "/Anatta/service-worker.js",
-    "static/css/3.0b67ad20.chunk.css.map": "/Anatta/static/css/3.0b67ad20.chunk.css.map",
-    "static/css/main.4c362482.chunk.css.map": "/Anatta/static/css/main.4c362482.chunk.css.map"
+    "main.css": "/static/css/main.4c362482.chunk.css",
+    "main.js": "/static/js/main.6260a5ed.chunk.js",
+    "main.js.map": "/static/js/main.6260a5ed.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.8092d48f.js",
+    "runtime~main.js.map": "/static/js/runtime~main.8092d48f.js.map",
+    "static/js/2.2c29eaf4.chunk.js": "/static/js/2.2c29eaf4.chunk.js",
+    "static/js/2.2c29eaf4.chunk.js.map": "/static/js/2.2c29eaf4.chunk.js.map",
+    "static/css/3.0b67ad20.chunk.css": "/static/css/3.0b67ad20.chunk.css",
+    "static/js/3.8350ea0f.chunk.js": "/static/js/3.8350ea0f.chunk.js",
+    "static/js/3.8350ea0f.chunk.js.map": "/static/js/3.8350ea0f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6bb2f6391b5a442e185d1a2501c45519.js": "/precache-manifest.6bb2f6391b5a442e185d1a2501c45519.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.0b67ad20.chunk.css.map": "/static/css/3.0b67ad20.chunk.css.map",
+    "static/css/main.4c362482.chunk.css.map": "/static/css/main.4c362482.chunk.css.map"
   }
 }
