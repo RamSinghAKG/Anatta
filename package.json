@@ -138,5 +138,19 @@
   "devDependencies": {
     "app-root-path": "^2.2.1"
   },
-  "homepage": "https://ramsinghakg.github.io/Anatta"
+  "homepage": "https://ramsinghakg.github.io/Anatta",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.2"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm",
+    "resolveModules": {
+      "aliases": {
+        "src": "src",
+        "components": "src/components",
+        "common": "src/common"
+      }
+    }
+  }
 }

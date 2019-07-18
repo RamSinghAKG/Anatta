@@ -1,6 +1,6 @@
 import React, { Suspense, useState, useEffect, useRef, useReducer, useMemo } from 'react';
 import PropTypes from 'prop-types';
-import Spinner from 'components/UI/spinner/spinner';
+import Spinner from 'components/UI/spinner';
 import Header from 'components/header/header';
 import Error from 'components/UI/error/error';
 import ErrorBoundary from 'components/errorboundary/errorboundary';

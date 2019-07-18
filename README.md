@@ -17,5 +17,8 @@ Project Setup steps:
 2) Error Handling
 3) i18n 
 
+# Bit
+1) React: https://docs.bit.dev/docs/bit-react-tutorial.html
+
 
 
